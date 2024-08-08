@@ -1,0 +1,96 @@
+body{
+    height: 750px;
+}
+.nobor {
+    border: none;
+}
+td {
+    height: 8,3%;
+    width: 0.5%;
+}
+table {
+   margin: auto;
+}
+dt {
+    text-align: center;
+
+}
+.elemento {
+    font-size: 25px;
+}
+.metalcalinos {
+    border-color: #ffa500;
+    background-color: #ffe1aa83;
+    }
+
+.metalcalinoster {
+        border-color: #ffff00;
+        background-color: rgba(255, 255, 0, 0.288);
+        }
+.mettrans {
+border-color: #b1001f;
+background-color: rgba(253, 172, 172, 0.356);
+}
+.lanta{
+    border-color: #fa7f72;
+    background-color: #ff928679;
+}
+
+.act {
+    border-color: #c8a2c8;
+    background-color: #c988c99c;
+}
+
+.outmetal {
+    border-color: #120a8f;
+    background-color: rgba(26, 18, 143, 0.337);
+}
+
+.nometal{
+    border-color: #24da1e;
+    background-color: #24da1e4f;
+}
+.gases {
+    border-color: #ccff33;
+    background-color: #c7ff1f7a;
+}
+.noclass {
+    border-color: #4b4b4b;
+    background-color: #dadada7e;
+}
+.nitro  {
+    border-color: rgba(41, 194, 255, 0.494);
+    background-color: rgba(150, 225, 255, 0.494);
+}
+
+.linhas{
+    font-size: 120%;
+}
+.elementolinha {
+    border: groove;
+    border-radius: 15%;
+    text-align: center;
+}
+.titles {
+    text-align: center; 
+}
+.tableze{
+    padding: 0.4%;
+    margin-top:  1%;
+    margin-left: 10%;
+    width: 10%;
+}
+
+
+td:hover{
+    scale: 1.3;
+}
+.unico:hover{
+    scale: 1.0;
+}
+.menor{
+    font-size: 80%; 
+}
+.tdauto{
+    width: auto;
+}
