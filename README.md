@@ -1,7 +1,6 @@
 <h1 align="center">「 Front 」- TabelaPeriódica_Ⅰ</h1>
 
-
-
+<a href="https://gabischa.github.io/Front_TabelaPeriodica/">Preview</a>
 
 <h2 id=objective>📌 Objetivos</h2>
 
